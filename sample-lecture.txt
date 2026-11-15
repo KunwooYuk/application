@@ -1,0 +1,13 @@
+Introduction to Photosynthesis
+
+Photosynthesis converts light energy into chemical energy. Chlorophyll absorbs light in chloroplasts. Plants use carbon dioxide and water to produce carbohydrates and release oxygen.
+
+명반응과 캘빈 회로
+
+명반응은 엽록체의 틸라코이드 막에서 진행된다. 빛 에너지를 이용하여 ATP와 NADPH를 생성하며, 물의 광분해 과정에서 산소가 방출된다.
+
+캘빈 회로는 스트로마에서 진행된다. 이산화탄소를 고정하고 명반응에서 만들어진 ATP와 NADPH를 사용하여 탄수화물 합성에 필요한 물질을 생성한다.
+
+복습할 개념
+
+명반응과 캘빈 회로는 에너지 운반체를 통해 연결된다. ATP는 에너지를 제공하고 NADPH는 환원력을 제공한다. 캘빈 회로가 빛을 직접 이용하지 않는다고 해서 식물에서 밤에만 일어난다는 의미는 아니다.
